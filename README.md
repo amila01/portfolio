@@ -50,13 +50,6 @@
 - This year, the first 50,000 participants can earn a T-shirt.
 ---
 
-Steps for adding your name below
-
-    1. Fork this repo
-    2. Edit `CONTRIBUTERS.md` file
-    3. Add your Name also link your github profile
-    4. Make pull request
-
 
 ## License
 
