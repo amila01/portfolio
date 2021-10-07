@@ -178,6 +178,16 @@
 		});
 
 	};
+	
+	var navDeactive = function(section) {
+
+		var $el = $('#navbar <= ul');
+		$el.each(function(){
+			$(this).find('a[data-nav-section="'+section+'"]').closest('li').removeClass('active');
+		});
+		$el.find('li').addClass('active');
+
+	};
 
 	var navigationSection = function() {
 
