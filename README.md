@@ -13,8 +13,8 @@
  <a href="https://github.com/amila01" ><img src="https://img.shields.io/badge/Contributions-welcome-violet.svg?style=flat&logo=git" alt="Contributions" /></a>
 
 <a href="https://github.com/Hansajith98/hacktoberfest2021/pulls"><img src="https://img.shields.io/github/issues-pr/hacktoberfest2021/hacktoberfest2021" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/Hansajith98/hacktoberfest2021/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Hansajith98/hacktoberfest2021?color=2b9348"></a>
-<a href="https://github.com/Hansajith98/hacktoberfest2021/blob/master/LICENSE"><img src="https://img.shields.io/github/license/Hansajith98/hacktoberfest2021?color=2b9348" alt="License Badge"/></a>
+<a href="https://github.com/Hansajith98/hacktoberfest2021/graphs/contributors"><img alt="GitHub contributors" src="https://github.com/amila01/portfolio"></a>
+
 
 </div>
 
