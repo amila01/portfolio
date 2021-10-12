@@ -12,7 +12,6 @@
  <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
  <a href="https://github.com/amila01" ><img src="https://img.shields.io/badge/Contributions-welcome-violet.svg?style=flat&logo=git" alt="Contributions" /></a>
 
-<a href="https://github.com/amila01/portfolio"><img src="https://img.shields.io/github/issues-pr/hacktoberfest2021/hacktoberfest2021" alt="Pull Requests Badge"/></a>
 
 
 
