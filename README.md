@@ -27,13 +27,7 @@
 > some more repos for contribution
 > Make PR to the dev branch
 
-| Repository                                                  | Issues                                                                                                                                                           | Pull Requests                                                                                                                                                     | 
-| ----------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | 
-| [Python](https://github.com/Hansajith98/Python)         | [![GitHub issues](https://img.shields.io/github/issues/Hansajith98/hacktoberfest2021/Python?color=pink&logo=github)](https://github.com/keshavsingh4522/Hansajith98/issues)         | [![GitHub PRs](https://img.shields.io/github/issues-pr/Hansajith98/hacktoberfest2021/Python?style=social&logo=github)](https://github.com/keshavsingh4522/Hansajith98/pulls)         | 
-| [C](https://github.com/Hansajith98/c/)                  | [![GitHub issues](https://img.shields.io/github/issues/Hansajith98/hacktoberfest2021/c?color=pink&logo=github)](https://github.com/Hansajith98/c/issues)                   | [![GitHub PRs](https://img.shields.io/github/issues-pr/Hansajith98/hacktoberfest2021/c?style=social&logo=github)](https://github.com/Hansajith98/c/pulls)                   | 
-| [Javascript](https://github.com/Hansajith98/javascript) | [![GitHub issues](https://img.shields.io/github/issues/Hansajith98/hacktoberfest2021/javascript?color=pink&logo=github)](https://github.com/Hansajith98/javascript/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/Hansajith98/hacktoberfest2021/javascript?style=social&logo=github)](https://github.com/Hansajith98/javascript/pulls) | 
-| [PHP](https://github.com/Hansajith98/PHP)         | [![GitHub issues](https://img.shields.io/github/issues/Hansajith98/hacktoberfest2021/PHP?color=pink&logo=github)](https://github.com/Hansajith98/PHP/issues)         | [![GitHub PRs](https://img.shields.io/github/issues-pr/Hansajith98/hacktoberfest2021/PHP?style=social&logo=github)](https://github.com/Hansajith98/PHP/pulls)         | 
-| [Java](https://github.com/Hansajith98/Java/)  | [![GitHub issues](https://img.shields.io/github/issues/Hansajith98/hacktoberfest2021/Java?color=pink&logo=github)](https://github.com/Hansajith98/Java/issues)   | [![GitHub PRs](https://img.shields.io/github/issues-pr/Hansajith98/hacktoberfest2021/Java?style=social&logo=github)](https://github.com/Hansajith98/Java/pulls)   | 
+
 
 ## Rules
 
